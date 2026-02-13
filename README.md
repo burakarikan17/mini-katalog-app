@@ -92,7 +92,7 @@ mini_katalog/
 1. **Projeyi klonlayın:**
 
 ```bash
-git clone https://github.com/burakarikan17/mini-katalog.git
+git clone https://github.com/burakarikan17/mini-katalog-app.git
 cd mini-katalog
 ```
 
